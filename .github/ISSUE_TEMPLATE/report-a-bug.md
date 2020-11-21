@@ -7,16 +7,18 @@ assignees: ''
 
 ---
 
+Estimated time to complete: [example: 1 day]
+
 **Input**
 1. *Device: [example: iphone 12]
-- *Device OS version: [example: 14.2]
-- *Application: [example: Wonder App]
-- *Application version: [example: 1.3.5]
-- *Screenshot and/or video
-- *Steps to reproduce:
-  1. Open app
-  - Login
-  - Click ...
+2. *Device OS version: [example: 14.2]
+3. *Application: [example: Wonder App]
+4. *Application version: [example: 1.3.5]
+5. *Screenshot and/or video
+6. *Steps to reproduce:
+- Open app
+- Login
+- Click ...
 
 **Output**
 - [ ] App should not freeze
