@@ -1,11 +1,5 @@
 
-Estimated time to complete: [example: 1 day]
-
-**Input**
-- Issue #
-
-**Output**
-- Desired output in issue.
+**Input** & **Output**: issue #
 
 **Process**
 
