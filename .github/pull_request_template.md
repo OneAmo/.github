@@ -1,7 +1,7 @@
 
-**Input** & **Output**: issue #
-
-**Process**
+**Input & Output**: issue #
+**Process:**
+- Briefly explain how you approach to solve this problem.
 
 PR checklist:
 
@@ -9,11 +9,11 @@ PR checklist:
 - [ ] Vulnerabilities have been considered and prevented
 - [ ] Optimized space & time code complexity
 - [ ] Added unit tests for edge cases
-- [ ] Added Unit tests with 80% - 100% code coverage
+- [ ] Added unit tests with 80% - 100% code coverage
 - [ ] Variables and functions naming is semantic and easy to understand
-- [ ] Code documented follows IPO rules
+- [ ] Documented code followed by IPO rules
 
 After PR merged:
 
 - [ ] Deployed on `staging` and confirmed working
-- [ ] Deployed on `production` and confirmed working
+- [ ] Deployed on `production` and checked off issue outputs
