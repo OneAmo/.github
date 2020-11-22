@@ -1,5 +1,5 @@
 ---
-name: Report a bug
+name: Bug report
 about: Follow IPO format
 title: Short description of bug
 labels: bug
