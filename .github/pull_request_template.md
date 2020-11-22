@@ -1,7 +1,7 @@
 
-**Input & Output**: issue #
+**Input & Output**: issue #[example: 1]
 **Process:**
-- Briefly explain how you approach to solve this problem.
+- [Briefly explain how you approach to solve this problem.]
 
 PR checklist:
 
