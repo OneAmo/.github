@@ -5,6 +5,7 @@
 
 PR checklist:
 
+- [ ] Link PR to issue
 - [ ] Correctly implemented requested outputs
 - [ ] Vulnerabilities have been considered and prevented
 - [ ] Optimized space & time code complexity
