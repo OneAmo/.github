@@ -1,1 +1,0 @@
-## in root/PULL_REQUEST_TEMPLATE

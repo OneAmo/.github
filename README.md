@@ -1,2 +1,2 @@
 # .github
-Organization templates.
+PUBLIC repo for rrg templates.
