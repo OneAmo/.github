@@ -1,8 +1,3 @@
----
-name: Pull Request Bug 
-about: Pull Request that solves a Bug
-label: bug
----
 #### Commit Messages  
 >    The commit messages should refer to the issue
 >    The commit messages should explain your changes, why they are necessary and why they were implemented the way they are
