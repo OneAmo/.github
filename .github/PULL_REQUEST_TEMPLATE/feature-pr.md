@@ -1,11 +1,3 @@
----
-name: Feature PR
-about: Follow IPO format
-title: Short description of feature
-labels: bug
-assignees: ''
-
----
 
 Estimated time to complete: [example: 1 day]
 
