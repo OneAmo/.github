@@ -11,7 +11,7 @@ PR checklist:
 - [ ] Added unit tests for edge cases
 - [ ] Added unit tests with 80% - 100% code coverage
 - [ ] Variables and functions naming is semantic and easy to understand
-- [ ] Documented code followed by IPO rules
+- [ ] Documented code followed by IPO rules and/or updated Postman collection
 
 After PR merged:
 
