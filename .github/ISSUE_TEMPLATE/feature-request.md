@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Estimated time to complete: [example: 1 day]
+Estimated time to complete: [example: 1 day, implemetor fill in]
 
 **Input**
 - Everything implementor should know
