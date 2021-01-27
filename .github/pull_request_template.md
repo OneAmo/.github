@@ -7,16 +7,16 @@ PR checklist:
 
 - [ ] Assigned PR to your name, link PR to issue, team sprint and your sprint
 - [ ] Correctly implemented requested outputs
-- [ ] Vulnerabilities have been considered and prevented
-- [ ] Optimized space & time code complexity
-- [ ] Added unit tests for edge cases
+- [ ] Security vulnerabilities have been considered and prevented
+- [ ] Optimized time & space code complexity
+- [ ] Added unit tests for main and edge cases
 - [ ] Added unit tests with 80% - 100% code coverage
 - [ ] Variables and functions naming are semantic and easy to understand
-- [ ] Documented code followed by IPO rules and/or updated Postman collection
+- [ ] Documented code followed by [IPO rules](https://www.sesvtutorial.com/setting-up-your-study-environment-and-mentality/#input---process---output-ipo) and/or updated Postman collection
 - [ ] Added new `environment variable` to `.env_example` file (if any)
-- [ ] Deployed on `development` server and confirmed working
+- [ ] Deployed + update `evn` on `development` server and confirmed working
 
 After PR merged:
 
-- [ ] Deployed on `staging` and confirmed working
-- [ ] Deployed on `production` and checked off issue outputs
+- [ ] Deployed + update `evn` on `staging` and confirmed working
+- [ ] Deployed + update `evn` on `production` and checked off issue outputs
