@@ -14,9 +14,9 @@ PR checklist:
 - [ ] Variables and functions naming are semantic and easy to understand
 - [ ] Documented code followed by [IPO rules](https://www.sesvtutorial.com/setting-up-your-study-environment-and-mentality/#input---process---output-ipo) and/or updated Postman collection
 - [ ] Added new `environment variable` to `.env_example` file (if any)
-- [ ] Deployed + update `evn` on `development` server and confirmed working
+- [ ] Deployed + update `env` on `development` server and confirmed working
 
 After PR merged:
 
-- [ ] Deployed + update `evn` on `staging` and confirmed working
-- [ ] Deployed + update `evn` on `production` and checked off issue outputs
+- [ ] Deployed + update `env` on `staging` and confirmed working
+- [ ] Deployed + update `env` on `production` and checked off issue outputs
