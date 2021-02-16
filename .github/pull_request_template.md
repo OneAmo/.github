@@ -8,7 +8,7 @@ PR checklist:
 - [ ] Assigned PR to your name, link PR to issue, team sprint and your sprint
 - [ ] Correctly implemented requested outputs
 - [ ] Security vulnerabilities have been considered and prevented
-- [ ] Optimized time & space code complexity
+- [ ] Optimized time, space code complexity and network bandwidth
 - [ ] Added unit tests for main and edge cases
 - [ ] Added unit tests with 80% - 100% code coverage
 - [ ] Variables and functions naming are semantic and easy to understand
