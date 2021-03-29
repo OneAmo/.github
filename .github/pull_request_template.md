@@ -5,7 +5,6 @@
 
 PR checklist:
 
-- [ ] Assigned PR to your name, link PR to issue, team sprint and your sprint
 - [ ] Correctly implemented requested outputs
 - [ ] Security vulnerabilities have been considered and prevented
 - [ ] Optimized time, space code complexity and network bandwidth
