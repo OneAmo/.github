@@ -5,17 +5,17 @@
 
 PR checklist:
 
-- [ ] Correctly implemented requested outputs
-- [ ] Security vulnerabilities have been considered and prevented
-- [ ] Optimized time, space code complexity and network bandwidth
-- [ ] Added unit tests for main and edge cases
-- [ ] Added unit tests with 80% - 100% code coverage
-- [ ] Variables and functions naming are semantic and easy to understand
-- [ ] Documented code followed by [IPO rules](https://www.sesvtutorial.com/setting-up-your-study-environment-and-mentality/#input---process---output-ipo) and/or updated Postman collection
-- [ ] Added new `environment variable` to `.env_example` file (if any)
-- [ ] Deployed + update `env` on `development` server and confirmed working
+- [ ] CS1: correct and short
+- [ ] CS2: security vulnerabilities have been considered and prevented
+- [ ] CS3: optimized time, space code complexity and network bandwidth
+- [ ] CS4: Added unit tests with 80% - 100% code coverage
+- [ ] CS5.1: Variables and functions naming are semantic and easy to understand
+- [ ] CS5.2: Documented code followed by [IPO rules](https://www.sesvtutorial.com/setting-up-your-study-environment-and-mentality/#input---process---output-ipo), step by step comment code to record your solution.
+- [ ] CS6: Elegant code: are you proud of this PR? Does it make the code base a better place?
+- [ ] Updated Postman collection (if any)
+- [ ] Added new `environment variable`, `serviceKeys` to `.env_example` file and `github secrets` (if any)
+- [ ] Deployed on `development` server and confirmed working
 
 After PR merged:
 
-- [ ] Deployed + update `env` on `staging` and confirmed working
-- [ ] Deployed + update `env` on `production` and checked off issue outputs
+- [ ] Checked your changes on `staging` server and confirmed working
