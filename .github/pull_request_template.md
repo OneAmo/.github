@@ -16,6 +16,13 @@ PR checklist:
 - [ ] Added new `environment variable`, `serviceKeys` to `.env_example` file and `github secrets` (if any)
 - [ ] Deployed on `development` server and confirmed working
 
+PR big O complexity + response time:
+
+- [ ] Time: [how much time? enter your calculation here]
+- [ ] Space: [how much space? enter your calculation here]
+- [ ] DB query: how many records does your PR scan the DB? Are scanned fields indexed?
+- [ ] API call time: local: [___ ms], dev: [___ ms], staging: [___ ms]
+
 After PR merged:
 
 - [ ] Checked your changes on `staging` server and confirmed working
