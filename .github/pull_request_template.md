@@ -15,6 +15,7 @@ PR checklist:
 - [ ] Updated Postman collection (if any)
 - [ ] Added new `environment variable`, `serviceKeys` to `.env_example` file and `github secrets` (if any)
 - [ ] Deployed on `development` server and confirmed working
+- [ ] Document and testing: update this feature behavior to [test plan document](https://docs.google.com/spreadsheets/d/1X51rSer3rUwyksM3Ap95BClshP0y6_SjwvyhhTcPpZk) so it can be routinely tested.
 
 PR big O complexity + response time:
 
