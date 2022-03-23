@@ -5,7 +5,7 @@
 
 PR checklist:
 
-- [ ] CS1: correct and short
+- [ ] CS1: correct, simple and short
 - [ ] CS2: security vulnerabilities have been considered and prevented
 - [ ] CS3: optimized time, space code complexity and network bandwidth
 - [ ] CS4: Added unit tests with 80% - 100% code coverage
